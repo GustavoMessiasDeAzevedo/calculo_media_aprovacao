@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculo_media_aprovacao", "calculo_media_aprovacao\calculo_media_aprovacao.csproj", "{257B1D88-43D6-4EF9-9D35-8035DA0B741D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{257B1D88-43D6-4EF9-9D35-8035DA0B741D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{257B1D88-43D6-4EF9-9D35-8035DA0B741D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{257B1D88-43D6-4EF9-9D35-8035DA0B741D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{257B1D88-43D6-4EF9-9D35-8035DA0B741D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CD43D26-EB21-4F2D-ADD0-C12B4FC21DD8}
+	EndGlobalSection
+EndGlobal
